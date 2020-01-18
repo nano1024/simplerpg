@@ -4,6 +4,7 @@ public class HW1_1 {
 
 	public static void main(String[] args) {
 		int a = 12 ,b = 6;
+		int c=10;
 		int sum = a + b;
 		int pro = a * b;
 		String s1="和 =";
