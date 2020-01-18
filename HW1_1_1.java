@@ -1,7 +1,7 @@
 package ch3;
 
 public class HW1_1 {
-
+    String xxx;
 	public static void main(String[] args) {
 		int a = 12 ,b = 6;
 		int sum = a + b;
